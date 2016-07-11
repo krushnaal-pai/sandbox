@@ -1,7 +1,10 @@
+/// mein stupid hoon hahaha
+
 <module-one>
 	hello this is module one yup
 </module-one>
 
-<module-news>
-	here goes our news module
-</module-news>
+<module-two>
+	hello this is module one
+</module-two>
+
