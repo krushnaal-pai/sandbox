@@ -1,4 +1,7 @@
-
 <module-one>
-	hello this is module one
+	hello this is module one yup
 </module-one>
+
+<module-news>
+	here goes our news module
+</module-news>
